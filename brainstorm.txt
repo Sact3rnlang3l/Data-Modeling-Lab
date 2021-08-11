@@ -1,0 +1,23 @@
+User Needed- one to many table
+    User ID
+    User Email
+    User Password
+    User Name
+    User Recipes
+Recipes - many to many
+    Recipe ID
+    recipe directions
+    recipe ingredients
+ingredients one to many
+    ID
+    ingredients text
+insctructions- one to one
+    id 
+    inscrtuction text
+grocery list many to many
+    userGroceryID
+    ingredients
+Occassion one to many
+    Occasion ID
+    User ID
+    recipe ID
